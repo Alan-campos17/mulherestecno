@@ -61,7 +61,7 @@ button {
     align-items: center;
     justify-content: center;
     height: 50px;
-    position: relative;
+    position: center;
     padding: 0 20px;
     font-size: 18px;
     text-transform: uppercase;
