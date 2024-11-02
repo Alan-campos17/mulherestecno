@@ -119,3 +119,33 @@ button:hover i {
 button:hover i:nth-child(1) { transition-delay: 0.045s; }
 button:hover i:nth-child(2) { transition-delay: calc(0.045s * 2); }
 button:hover i:nth-child(3) { transition-delay: calc(0.045); }
+
+footer {
+    background-color: hsl(210, 50%, 20%); /* Cor de fundo escura */
+    color: white; /* Cor do texto */
+    padding: 20px 0; /* Espaçamento interno */
+    text-align: center; /* Centraliza o texto */
+    position: relative; /* Para efeitos de sombra */
+    box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.5); /* Sombra na parte superior */
+}
+
+.footer-content {
+    max-width: 1200px; /* Largura máxima para centralizar o conteúdo */
+    margin: 0 auto; /* Centraliza o footer */
+    padding: 0 20px; /* Espaçamento lateral */
+}
+
+.footer-content p {
+    margin: 5px 0; /* Margens para separar os parágrafos */
+    font-size: 16px; /* Tamanho da fonte */
+}
+
+.footer-content a {
+    color: hsl(355, 100%, 50%); /* Cor do link */
+    text-decoration: none; /* Remove sublinhado */
+    transition: color 0.3s; /* Transição suave para a cor */
+}
+
+.footer-content a:hover {
+    color: hsl(355, 80%, 50%); /* Cor ao passar o mouse */
+}
