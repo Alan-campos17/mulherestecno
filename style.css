@@ -126,7 +126,7 @@ footer {
     padding: 20px 0; /* Espaçamento interno */
     text-align: center; /* Centraliza o texto */
     position: relative; /* Para efeitos de sombra */
-    box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.5); /* Sombra na parte superior */
+    box-shadow: 0 -4px 10px rgba(255, 0, 0, 0.5); /* Sombra na parte superior */
 }
 
 .footer-content {
