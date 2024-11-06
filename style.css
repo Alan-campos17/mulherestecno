@@ -167,6 +167,7 @@ footer {
     font-weight: 700; /* Peso em negrito */
     margin: 0 0 10px; /* Margem inferior */
     font-size: 1.5em; /* Tamanho do título */
+    color: white;
 }
 
 /* Estilo para o texto dentro da caixa */
