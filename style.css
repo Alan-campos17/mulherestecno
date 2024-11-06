@@ -151,3 +151,26 @@ footer {
     animation: fadeInUp 0.8s ease forwards; /* Aplica a animação ao carregar */
     opacity: 0; /* Começa invisível */
 }
+
+/* Estilos gerais para a caixa */
+.box {
+    background-color: #f0f8ff; /* Cor de fundo da caixa */
+    border-left: 5px solid #4a90e2; /* Borda lateral */
+    padding: 15px; /* Espaçamento interno */
+    margin: 20px 0; /* Margem superior e inferior */
+    border-radius: 8px; /* Cantos arredondados */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+/* Estilo para o título da caixa */
+.box h2 {
+    font-weight: 700; /* Peso em negrito */
+    margin: 0 0 10px; /* Margem inferior */
+    font-size: 1.5em; /* Tamanho do título */
+}
+
+/* Estilo para o texto dentro da caixa */
+.box p {
+    font-weight: 400; /* Peso normal */
+    margin: 0; /* Remove margens padrão */
+}
