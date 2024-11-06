@@ -1,6 +1,7 @@
 body { 
     background-color: rgb(10, 10, 10);
     font-family: 'Libre Baskerville', serif;
+    overflow: hidden; /* Impede a rolagem durante a animação */
 }
 
 .cabecalho{
