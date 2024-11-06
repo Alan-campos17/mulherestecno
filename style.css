@@ -154,7 +154,7 @@ footer {
 
 /* Estilos gerais para a caixa */
 .box {
-    background-color: #f0f8ff; /* Cor de fundo da caixa */
+    background-color: #000000; /* Cor de fundo da caixa */
     border-left: 5px solid #4a90e2; /* Borda lateral */
     padding: 15px; /* Espaçamento interno */
     margin: 20px 0; /* Margem superior e inferior */
