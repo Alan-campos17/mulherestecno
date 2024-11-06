@@ -131,12 +131,6 @@ footer {
 }
 
 
-
-.footer-content p {
-    margin: 5px 0; 
-    font-size: 16px; 
-}
-
 /* Animação fade-in-up */
 @keyframes fadeInUp {
     0% {
